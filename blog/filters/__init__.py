@@ -1,0 +1,1 @@
+from blog.filters.posts import PostFilter
