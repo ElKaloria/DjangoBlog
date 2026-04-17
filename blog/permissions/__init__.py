@@ -1,0 +1,1 @@
+from blog.permissions.user_permissions import IsAuthorOrReadOnly
