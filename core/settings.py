@@ -105,7 +105,7 @@ AUTHENTICATION_BACKENDS = [
 ]
 
 LOGIN_URL = '/api/auth/login/'
-LOGIN_REDIRECT_URL = '/api/docs/'
+LOGIN_REDIRECT_URL = '/api/docs/swagger/'
 LOGOUT_REDIRECT_URL = '/'
 
 
